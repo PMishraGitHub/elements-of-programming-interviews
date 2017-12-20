@@ -36,3 +36,22 @@ This project is open source so please fork it and help me create a supplement to
 [download from apache]:http://www.baeldung.com/install-maven-on-windows-linux-mac
 [download from oracle]:https://www3.ntu.edu.sg/home/ehchua/programming/howto/JDK_Howto.html
 [donate]:http://www.paypal.me/gardncl
+
+## Chapter Completion Checklist: [![Build Status](https://travis-ci.org/gardncl/elements-of-programming-interviews-solutions.svg?branch=master)](https://travis-ci.org/gardncl/elements-of-programming-interviews-solutions) [![codecov](https://codecov.io/gh/gardncl/elements-of-programming-interviews-solutions/branch/master/graph/badge.svg)](https://codecov.io/gh/gardncl/elements-of-programming-interviews-solutions)
+
+- [ ] Chapter 5: Primitives
+- [ ] Chapter 6: Arrays
+- [ ] Chapter 7: Strings
+- [ ] Chapter 8: Linked Lists
+- [ ] Chapter 9: Stacks and Queues
+- [ ] Chapter 10: Binary Trees
+- [ ] Chapter 11: Heaps
+- [ ] Chapter 12: Searching
+- [ ] Chapter 13: Hash Tables
+- [ ] Chapter 14: Sorting
+- [ ] Chapter 15: Binary Search Trees
+- [ ] Chapter 16: Recursion
+- [ ] Chapter 17: Dynamic Programming
+- [ ] Chapter 18: Greedy Algorithms and Invariants
+- [ ] Chapter 19: Graphs
+- [ ] Chapter 20: Parallel Computing
