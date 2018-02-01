@@ -7,7 +7,7 @@ public class SudokuChecker {
     */
 
     public static boolean isValidSudoku(List<List<Integer>> partialAssignment) {
-
+        System.out.println("Sudoku Checker working");
         return true;
     }
 }
